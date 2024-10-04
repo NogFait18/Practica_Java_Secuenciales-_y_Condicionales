@@ -1,1 +1,1 @@
-# Practica_Java_Secuenciales-_y_Condicionales
+# Practica_Java_Secuenciales_y_Condicionales
